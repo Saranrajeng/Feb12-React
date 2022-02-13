@@ -1,0 +1,21 @@
+.Nav-bar{
+    background-color: aqua;
+    gap: 10vw;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+
+
+}
+.Nav-bar>h1{
+    display: inline;
+}
+.Nav-bar>input,.Nav-bar>button{
+    margin-top: 30px;
+}
+.Gallery{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 20px;
+    gap: 5vh;
+}
